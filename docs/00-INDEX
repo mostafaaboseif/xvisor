@@ -16,7 +16,7 @@ VersionScheme
 CodingStyle
 	- Expected C coding style in Xvisor.
 DriverPorting
-	- Recommendation for porint driver from Linux to Xvisor.
+	- Recommendation for porting driver from Linux to Xvisor.
 arm/
 	- ARM architecture support documentation.
 riscv/
